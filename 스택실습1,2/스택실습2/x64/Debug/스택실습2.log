@@ -1,0 +1,5 @@
+﻿  ex5_2.c
+  stackL.c
+  코드를 생성하고 있습니다...
+C:\Users\yubin\OneDrive\바탕 화면\스택실습1\스택실습2\stackL.c(22,3): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  스택실습2.vcxproj -> C:\Users\yubin\OneDrive\바탕 화면\스택실습1\x64\Debug\스택실습2.exe
