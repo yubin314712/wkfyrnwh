@@ -1,0 +1,14 @@
+﻿  deQue.c
+  ex6_4.c
+  코드를 생성하고 있습니다...
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(80,3): warning C4033: 'deleteFront'은(는) 값을 반환해야 합니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(110,3): warning C4033: 'deleteRear'은(는) 값을 반환해야 합니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(137,3): warning C4033: 'peekFront'은(는) 값을 반환해야 합니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(155,3): warning C4033: 'peekRear'은(는) 값을 반환해야 합니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\ex6_4.c(8,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\ex6_4.c(24,2): warning C4013: 'getchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(128,1): warning C4715: 'deleteRear': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(162,1): warning C4715: 'peekRear': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(145,1): warning C4715: 'peekFront': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\yubin\OneDrive\바탕 화면\큐실습1\ch06_4\deQue.c(99,1): warning C4715: 'deleteFront': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  ch06_4.vcxproj -> C:\Users\yubin\OneDrive\바탕 화면\큐실습1\x64\Debug\ch06_4.exe
